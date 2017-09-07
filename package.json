@@ -1,7 +1,7 @@
 {
-  "name": "catering",
+  "name": "vue基础项目",
   "version": "1.0.0",
-  "description": "客满座智慧餐饮系统",
+  "description": "vue基础项目",
   "author": "luchuanc <770916378@qq.com>",
   "private": true,
   "scripts": {
