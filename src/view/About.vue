@@ -3,7 +3,35 @@
     这是about页
     用户：{{user.userName}}<br>
     密码：{{user.pwd}}
+    <div class="box">
+      <bscroll>
+        <div>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p><p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+          <p>asssssssssssssssssssssssssssssssss</p>
+        </div>
+      </bscroll> 
+    </div>
   </div>
+  
 </template>
 
 <script>
@@ -28,6 +56,11 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.box{
+  height:120px;
+  width: 100px;
+  overflow: hidden;
+}
   h1, h2 {
     font-weight: normal;
   }
