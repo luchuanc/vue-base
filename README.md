@@ -1,6 +1,6 @@
 # catering
 
-> 客满座智慧餐饮系统
+> vue基础项目
 
 ## Build Setup
 
